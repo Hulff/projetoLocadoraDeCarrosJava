@@ -1,4 +1,4 @@
-package pooLocadoraDeCarros.pacoteDeNegócios;
+package pooLocadoraDeCarros.pacoteDeNegócios.Carro;
 
 public class Carro {
 	private String name;
